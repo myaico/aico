@@ -122,10 +122,10 @@ body {
 .explore {
   padding: 1rem 2rem;
   border: none;
-  font-family: "DM Serif Display", serif;
+  font-family: "Roboto", serif;
   font-size: 1.25rem;
   letter-spacing: 0.25rem;
-  color: #3535cc;
+  color: #fff;
   border-radius: 32px;
   cursor: pointer;
   display: inline-block;
@@ -137,6 +137,7 @@ body {
   transition: 0.42s ease-in-out;
   animation: fadeIn 2.4s ease-in-out 2s forwards;
   opacity: 0;
+  background: #212121;
 }
 
 .explore:hover {
