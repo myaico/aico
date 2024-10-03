@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'ethnocentric';
+  src: url('./ethnocentric.ttf') format('truetype');
+}
+
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter&display=swap");
 
 #root {
