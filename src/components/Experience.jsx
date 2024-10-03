@@ -50,8 +50,7 @@ export const Experience = () => {
           curvePoints[1].y,
           curvePoints[1].z
         ),
-        subtitle: `Welcome to Wawatmos,
-Have a seat and enjoy the ride!`,
+        subtitle: `Welcome to Aico`,
       },
       {
         cameraRailDist: 1.5,
@@ -60,9 +59,8 @@ Have a seat and enjoy the ride!`,
           curvePoints[2].y,
           curvePoints[2].z
         ),
-        title: "Services",
-        subtitle: `Do you want a drink?
-We have a wide range of beverages!`,
+        title: "Aipair",
+        subtitle: `Aipair pairs AI and social netwroking. Whether for professional or personal connections`,
       },
       {
         cameraRailDist: -1,
@@ -71,8 +69,8 @@ We have a wide range of beverages!`,
           curvePoints[3].y,
           curvePoints[3].z
         ),
-        title: "Fear of flying?",
-        subtitle: `Our flight attendants will help you have a great journey`,
+        title: "Aipod",
+        subtitle: `Aipod is an AI-based audio platform offering curated podcasts, music, and more`,
       },
       {
         cameraRailDist: 1.5,
@@ -81,8 +79,8 @@ We have a wide range of beverages!`,
           curvePoints[4].y,
           curvePoints[4].z - 12
         ),
-        title: "Movies",
-        subtitle: `We provide a large selection of medias, we highly recommend you Porco Rosso during the flight`,
+        title: "Aiviu",
+        subtitle: `Aiviu is an AI-based video streaming platform empowering creators to share high-quality videos`,
       },
     ];
   }, []);
